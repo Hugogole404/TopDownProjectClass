@@ -4,5 +4,5 @@ global.color = make_color_rgb(86, 130, 3);
 
 function AddPoint()
 {
-	Actual_Point += 10;
+	global.points += 10;
 }
