@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_ChargedBulletPlayer4",
-    "path": "sprites/spr_ChargedBulletPlayer4/spr_ChargedBulletPlayer4.yy",
+    "name": "s_chargedBulletPlayer4",
+    "path": "sprites/s_chargedBulletPlayer4/s_chargedBulletPlayer4.yy",
   },
   "solid": false,
   "visible": true,
@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "o_BulletManager",
-    "path": "objects/o_BulletManager/o_BulletManager.yy",
+    "name": "o_bulletManager",
+    "path": "objects/o_bulletManager/o_bulletManager.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -32,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_ChargedBulletPlayer",
+  "name": "o_chargedBulletPlayer",
   "tags": [],
   "resourceType": "GMObject",
 }

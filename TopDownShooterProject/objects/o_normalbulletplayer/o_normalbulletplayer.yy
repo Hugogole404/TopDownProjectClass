@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_NormalBulletPlayer",
-    "path": "sprites/spr_NormalBulletPlayer/spr_NormalBulletPlayer.yy",
+    "name": "s_normalBulletPlayer",
+    "path": "sprites/s_normalBulletPlayer/s_normalBulletPlayer.yy",
   },
   "solid": false,
   "visible": true,
@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "o_BulletManager",
-    "path": "objects/o_BulletManager/o_BulletManager.yy",
+    "name": "o_bulletManager",
+    "path": "objects/o_bulletManager/o_bulletManager.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -32,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_NormalBulletPlayer",
+  "name": "o_normalBulletPlayer",
   "tags": [],
   "resourceType": "GMObject",
 }

@@ -29,7 +29,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_Score",
+  "name": "o_score",
   "tags": [],
   "resourceType": "GMObject",
 }
