@@ -6,3 +6,11 @@ function AddPoint()
 {
 	global.ActualPoint += 10;
 }
+function AddPointEnnemis()
+{
+	global.ActualPoint += 25;
+}
+function DeletePointEnnemis()
+{
+	global.ActualPoint -= 30;
+}
