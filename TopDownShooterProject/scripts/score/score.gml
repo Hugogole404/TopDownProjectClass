@@ -1,8 +1,8 @@
-global.points = 0;
+global.ActualPoint = 0;
 global.color = make_color_rgb(86, 130, 3);
 
 
 function AddPoint()
 {
-	Actual_Point += 10;
+	global.ActualPoint += 10;
 }
