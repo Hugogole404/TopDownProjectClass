@@ -1,6 +1,6 @@
 /// @description init wars
 damage = 5;
-range = 160;
+range = 200;
 owner_id = noone;
 knockback_time = 5;
 

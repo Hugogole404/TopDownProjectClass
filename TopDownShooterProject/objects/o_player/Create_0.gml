@@ -1,13 +1,13 @@
 /// @description Insérez la description ici
-walk_spd = 8;
+walk_spd = 5;
 facing = 1;	     // face right
 
 //bow 
 aim_dir = 0;
 bow_dist = 8;
-fire_rate = 5; // nombre de frames que j'ai besoin pour tirer ( 2 fleches par sec) pour 30 frames 
+fire_rate = 6; // nombre de frames que j'ai besoin pour tirer ( 2 fleches par sec) pour 30 frames 
 can_fire = true;
-arrow_speed = 8;
+arrow_speed = 10;
 
 my_bow = instance_create_layer(x, y, "Instances", o_bow);
 
