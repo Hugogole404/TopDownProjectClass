@@ -14,3 +14,4 @@ function DeletePointEnnemis()
 {
 	global.ActualPoint -= 30;
 }
+//test github
