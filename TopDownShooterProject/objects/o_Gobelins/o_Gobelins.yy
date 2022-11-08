@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_ennemies",
-  "spriteId": {
-    "name": "s_ennemies",
-    "path": "sprites/s_ennemies/s_ennemies.yy",
-  },
+  "name": "o_Gobelins",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -25,13 +22,14 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Diablotins",
-    "path": "folders/Objects/Diablotins.yy",
+    "name": "Gobelins",
+    "path": "folders/Objects/Gobelins.yy",
   },
 }

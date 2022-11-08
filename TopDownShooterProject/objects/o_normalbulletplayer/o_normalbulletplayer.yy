@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "o_normalBulletPlayer",
   "spriteId": {
     "name": "s_normalBulletPlayer",
     "path": "sprites/s_normalBulletPlayer/s_normalBulletPlayer.yy",
@@ -28,11 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bullet",
+    "path": "folders/Objects/Bullet.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "o_normalBulletPlayer",
-  "tags": [],
-  "resourceType": "GMObject",
 }

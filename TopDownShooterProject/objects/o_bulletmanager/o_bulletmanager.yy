@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "o_bulletManager",
   "spriteId": null,
   "solid": false,
   "visible": true,
@@ -19,16 +22,13 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_ennemies","path":"objects/o_ennemies/o_ennemies.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_ennemies","path":"objects/o_ennemies/o_ennemies.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bullet",
+    "path": "folders/Objects/Bullet.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "o_bulletManager",
-  "tags": [],
-  "resourceType": "GMObject",
 }

@@ -1,4 +1,7 @@
 {
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "o_chargedBulletPlayer",
   "spriteId": {
     "name": "s_chargedBulletPlayer4",
     "path": "sprites/s_chargedBulletPlayer4/s_chargedBulletPlayer4.yy",
@@ -28,11 +31,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bullet",
+    "path": "folders/Objects/Bullet.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "o_chargedBulletPlayer",
-  "tags": [],
-  "resourceType": "GMObject",
 }
