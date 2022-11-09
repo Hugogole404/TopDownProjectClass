@@ -28,8 +28,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Bullet",
+    "path": "folders/Objects/Bullet.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_normalBulletPlayer",

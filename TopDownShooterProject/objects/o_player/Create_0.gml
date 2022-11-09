@@ -13,3 +13,5 @@ my_bow = instance_create_layer(x, y, "Instances", o_bow);
 
 cursor_sprite = s_cursor;      // remplace le curseur de la souris par le sprite du curseur
 window_set_cursor(cr_none);    // enleve le sprite de la souris 
+
+collectRadius = 35; //zone de collection des bonbons autour du joueur
