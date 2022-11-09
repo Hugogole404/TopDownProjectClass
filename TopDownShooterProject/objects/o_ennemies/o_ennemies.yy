@@ -1,7 +1,4 @@
 {
-  "resourceType": "GMObject",
-  "resourceVersion": "1.0",
-  "name": "o_ennemies",
   "spriteId": {
     "name": "s_ennemies",
     "path": "sprites/s_ennemies/s_ennemies.yy",
@@ -24,14 +21,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Diablotins",
-    "path": "folders/Objects/Diablotins.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
+  "resourceVersion": "1.0",
+  "name": "o_ennemies",
+  "tags": [],
+  "resourceType": "GMObject",
 }
