@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "o_Gobelins",
-  "spriteId": {
-    "name": "s_goblins",
-    "path": "sprites/s_goblins/s_goblins.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,

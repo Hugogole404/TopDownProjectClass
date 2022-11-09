@@ -2,10 +2,7 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "o_Pumpkin",
-  "spriteId": {
-    "name": "s_pumpkin",
-    "path": "sprites/s_pumpkin/s_pumpkin.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
