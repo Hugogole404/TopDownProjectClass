@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_diable","path":"objects/o_diable/o_diable.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

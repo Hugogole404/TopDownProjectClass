@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5db60850-e776-4d79-bbde-34d9e6b3dd8d","path":"sprites/s_walls/s_walls.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5db60850-e776-4d79-bbde-34d9e6b3dd8d","path":"sprites/s_walls/s_walls.yy",},"LayerId":{"name":"b242f020-068e-44ab-ac09-a48f9e6dff67","path":"sprites/s_walls/s_walls.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_walls","path":"sprites/s_walls/s_walls.yy",},"resourceVersion":"1.0","name":"5db60850-e776-4d79-bbde-34d9e6b3dd8d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d8bcf493-f906-40cd-836f-b783828d5fa4","path":"sprites/s_diable_white/s_diable_white.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d8bcf493-f906-40cd-836f-b783828d5fa4","path":"sprites/s_diable_white/s_diable_white.yy",},"LayerId":{"name":"34a831d2-0579-4e4b-8afb-e7e1452f6b45","path":"sprites/s_diable_white/s_diable_white.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_diable_white","path":"sprites/s_diable_white/s_diable_white.yy",},"resourceVersion":"1.0","name":"d8bcf493-f906-40cd-836f-b783828d5fa4","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"s_walls","path":"sprites/s_walls/s_walls.yy",},
+    "spriteId": {"name":"s_diable_white","path":"sprites/s_diable_white/s_diable_white.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ef7fd6df-cb9e-4e80-9e0b-3ce352070399","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5db60850-e776-4d79-bbde-34d9e6b3dd8d","path":"sprites/s_walls/s_walls.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"c889d729-a844-4890-825f-eede86c1ac0b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d8bcf493-f906-40cd-836f-b783828d5fa4","path":"sprites/s_diable_white/s_diable_white.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"s_walls","path":"sprites/s_walls/s_walls.yy",},
+    "parent": {"name":"s_diable_white","path":"sprites/s_diable_white/s_diable_white.yy",},
     "resourceVersion": "1.4",
-    "name": "s_walls",
+    "name": "s_diable_white",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b242f020-068e-44ab-ac09-a48f9e6dff67","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"34a831d2-0579-4e4b-8afb-e7e1452f6b45","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Murs",
-    "path": "folders/Sprites/Murs.yy",
+    "name": "Ennemis",
+    "path": "folders/Sprites/Ennemis.yy",
   },
   "resourceVersion": "1.0",
-  "name": "s_walls",
+  "name": "s_diable_white",
   "tags": [],
   "resourceType": "GMSprite",
 }

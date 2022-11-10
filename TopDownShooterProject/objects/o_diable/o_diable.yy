@@ -1,11 +1,17 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_diable",
+    "path": "sprites/s_diable/s_diable.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "o_enemy_parent",
+    "path": "objects/o_enemy_parent/o_enemy_parent.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -20,16 +26,15 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Controller",
-    "path": "folders/Objects/Controller.yy",
+    "name": "Ennemis",
+    "path": "folders/Objects/Ennemis.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_controller",
+  "name": "o_diable",
   "tags": [],
   "resourceType": "GMObject",
 }

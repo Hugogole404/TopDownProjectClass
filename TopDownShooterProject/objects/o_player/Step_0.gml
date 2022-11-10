@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description voir script player_processes
 reset_variables();
 
 get_input();

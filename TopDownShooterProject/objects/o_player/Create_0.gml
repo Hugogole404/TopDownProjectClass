@@ -14,4 +14,9 @@ my_bow = instance_create_layer(x, y, "Instances", o_bow);
 cursor_sprite = s_cursor;      // remplace le curseur de la souris par le sprite du curseur
 window_set_cursor(cr_none);    // enleve le sprite de la souris 
 
-collectRadius = 35; //zone de collection des bonbons autour du joueur
+//zone de collection des bonbons autour du joueur
+collectRadius = 35; 
+
+//système de bonbons/xp
+treat = 0;
+treatNext = 5; //tous les 5 bonbons on monte de niveau, voir pour incrémenter au fur et à mesure plutôt que stable
