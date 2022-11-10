@@ -1,6 +1,7 @@
 /// @description Statistiques & autres
 walk_spd = 5;
-facing = 1;	     // face right
+facing = 1;		// face right
+can_die = true
 
 //bow 
 aim_dir = 0;

@@ -8,3 +8,5 @@ calc_movement();
 check_fire();
 
 anim();
+
+anim_death();

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_treat",
-    "path": "sprites/s_treat/s_treat.yy",
+    "name": "s_Explosion_Bullet",
+    "path": "sprites/s_Explosion_Bullet/s_Explosion_Bullet.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,18 +22,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_Player","path":"objects/o_Player/o_Player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Treat",
-    "path": "folders/Objects/Treat.yy",
+    "name": "Bullet",
+    "path": "folders/Objects/Bullet.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_treat",
+  "name": "o_Explosion_Bullet",
   "tags": [],
   "resourceType": "GMObject",
 }
