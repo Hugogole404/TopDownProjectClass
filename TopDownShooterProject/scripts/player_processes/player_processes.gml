@@ -31,6 +31,8 @@ function calc_movement()
 		_facing = -1;
 	facing = _facing;
 	
+	//if hmove != 0 facing = hmove; // rajouté mais a verif
+	
 	if (hmove != 0 or vmove !=0)
 	{
 		// corrige les bugs de diagonales
