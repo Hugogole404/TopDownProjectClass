@@ -10,3 +10,4 @@ function arrow_die()
 	speed = 0;
 	instance_change(o_arrow_explode, false);
 }
+// test github
