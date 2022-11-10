@@ -1,3 +1,3 @@
 /// @description Insert description here
-//collisionEnnemis();
-//DeletePointEnnemis();
+collisionEnnemis();
+DeletePointEnnemis();
