@@ -99,9 +99,8 @@ function anim()
 {
 	if(hmove != 0 or vmove != 0)
 		sprite_index = s_player_walk;
-	else if
-		can_die = false
-			sprite_index = s_player_idle;
+	else 
+		sprite_index = s_player_idle;
 }
 
 function check_fire()
@@ -134,9 +133,9 @@ function check_fire_Explosive_Weapon()
 		if(can_fire)		// == true pas obligé si on est flemmard
 		{
 			can_fire = false;
-			alarm[7] = fire_rate;
+			alarm[7] = fire_rate_explosions;
 			var _dir = point_direction(x, y, mouse_x, mouse_y);
-			var _inst = instance_create_layer(x, y, "Arrow", o_arrow);	// le nom Arrow c'est le nom du calque
+			var _inst = instance_create_layer(x, y, "Arrow", o_Explosive_Bullet);	// le nom Arrow c'est le nom du calque
 			bow_dist = 2;
 			with(_inst)		// le code dedans c'est pour la fleche que je viens de creer
 			{

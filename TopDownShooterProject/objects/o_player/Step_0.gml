@@ -10,3 +10,5 @@ check_fire();
 anim();
 
 anim_death();
+
+check_fire_Explosive_Weapon();

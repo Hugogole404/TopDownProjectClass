@@ -3,6 +3,9 @@ walk_spd = 5;
 facing = 1;		// face right
 can_die = true
 
+
+fire_rate_explosions = 60;
+
 //bow 
 aim_dir = 0;
 bow_dist = 8;
