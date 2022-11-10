@@ -1,2 +1,0 @@
-/// @description Création des bullets
-

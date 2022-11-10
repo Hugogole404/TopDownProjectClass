@@ -1,1 +1,0 @@
-global.points += 25;
