@@ -58,11 +58,8 @@
     {"name":"inst_75007CA2","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_766D0372","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_1A00C5B4","path":"rooms/r_game/r_game.yy",},
-<<<<<<< Updated upstream
-    {"name":"inst_1386B5BC","path":"rooms/r_game/r_game.yy",},
-=======
     {"name":"inst_426E4390","path":"rooms/r_game/r_game.yy",},
->>>>>>> Stashed changes
+
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
