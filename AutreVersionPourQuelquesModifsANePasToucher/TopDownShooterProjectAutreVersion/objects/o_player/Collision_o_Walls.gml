@@ -1,0 +1,2 @@
+/// @description hurtbox
+collision();
