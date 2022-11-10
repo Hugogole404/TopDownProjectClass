@@ -1,7 +1,7 @@
 //vitesse 
 
 walkSpeed = 0.3;
-hp = 10;
+hp = 20;
 
 //gestion du sprite
 spr = s_diable;

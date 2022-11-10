@@ -1,2 +1,2 @@
-/// @description Insérez la description ici
+/// @description hurtbox
 collision();

@@ -5,7 +5,7 @@
 event_inherited();
 
 walkSpeed = 0.05;
-hp = 20;
+hp = 10;
 
 
 spr  = s_diable;

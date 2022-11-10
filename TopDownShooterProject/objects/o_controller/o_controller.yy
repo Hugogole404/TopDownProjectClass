@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_controller",
+    "path": "sprites/s_controller/s_controller.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

@@ -1,4 +1,4 @@
-/// @description Insérez la description ici
+/// @description Statistiques & autres
 walk_spd = 5;
 facing = 1;	     // face right
 
